@@ -35,5 +35,7 @@
 - Backend:
 [![My Skills](https://skillicons.dev/icons?i=python,mysql&perline=3)](https://skillicons.dev)
 - 개발환경
-[![My Skills](https://skillicons.dev/icons?i=vscodet&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode&perline=3)](https://skillicons.dev)
+- 기타
+[![My Skills](https://skillicons.dev/icons?i=github,notionslack,&perline=3)](https://skillicons.dev)
 
