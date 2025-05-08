@@ -30,7 +30,12 @@
 
 
 ### 기술 스택
-- **Frontend**: 61DAFB, Redux, Tailwind CSS  
+- Frontend: 
+<img src="https://img.shields.io/badge/React-61DAFB?
+          style=for-the-badge
+          &logo=React
+          &logoColor=61DAFB"/>
+          , Redux, Tailwind CSS  
 - **Backend**: Python, Mysql 
 - 기타 : 추가 
 
