@@ -30,12 +30,13 @@
 
 
 ### 기술 스택
-- Frontend: 
-[![My Skills](https://skillicons.dev/icons?i=react,vite,tailwind,typescript&perline=3)](https://skillicons.dev)
-- Backend:
-[![My Skills](https://skillicons.dev/icons?i=fastapi,mysql&perline=3)](https://skillicons.dev)
-- 개발환경
-[![My Skills](https://skillicons.dev/icons?i=vscode&perline=3)](https://skillicons.dev)
-- 기타
-[![My Skills](https://skillicons.dev/icons?i=github,notion,figma,electron,opencv&perline=3)](https://skillicons.dev)
+- **Frontend**  
+  [![My Skills](https://skillicons.dev/icons?i=react,vite,tailwind,typescript&perline=3)](https://skillicons.dev)
+- **Backend**  
+  [![My Skills](https://skillicons.dev/icons?i=fastapi,mysql&perline=3)](https://skillicons.dev)
+- **개발환경**  
+  [![My Skills](https://skillicons.dev/icons?i=vscode&perline=3)](https://skillicons.dev)
+- **기타**  
+  [![My Skills](https://skillicons.dev/icons?i=github,notion,figma,electron,opencv&perline=3)](https://skillicons.dev)
+
 
