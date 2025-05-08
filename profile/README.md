@@ -30,7 +30,7 @@
 
 
 ### 기술 스택
-- **Frontend**: React, Redux, Tailwind CSS  
+- **Frontend**: 61DAFB, Redux, Tailwind CSS  
 - **Backend**: Python, Mysql 
 - 기타 : 추가 
 
