@@ -30,7 +30,10 @@
 
 
 ### 기술 스택
-- Frontend: [![My Skills](https://skillicons.dev/icons?i=react,vite,typescript&perline=3)](https://skillicons.dev)
-- **Backend**: Python, Mysql 
-- 기타 : 추가 
+- Frontend: 
+[![My Skills](https://skillicons.dev/icons?i=react,vite,typescript&perline=3)](https://skillicons.dev)
+- Backend:
+[![My Skills](https://skillicons.dev/icons?i=python,mysql&perline=3)](https://skillicons.dev)
+- 개발환경
+[![My Skills](https://skillicons.dev/icons?i=vscodet&perline=3)](https://skillicons.dev)
 
