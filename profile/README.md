@@ -30,12 +30,7 @@
 
 
 ### 기술 스택
-- Frontend: 
-<img src="https://img.shields.io/badge/React-61DAFB?
-          style=for-the-badge
-          &logo=React
-          &logoColor=61DAFB"/>
-          , Redux, Tailwind CSS  
+- Frontend: [![My Skills](https://skillicons.dev/icons?i=react,vite,typescript&perline=3)](https://skillicons.dev)
 - **Backend**: Python, Mysql 
 - 기타 : 추가 
 
