@@ -3,9 +3,9 @@
 ### 멤버 소개
 | 이름   | 담당 영역                       |
 |--------|--------------------------------|
-| 손준서 | 프론트, 백엔드 / Sound to Text |
-| 홍승현 | 프론트, 백엔드 / Text to LLM        |
-| 김경민 | 프론트, 백엔드 / Image to Text      |
+| 손준서 | 프론트, 백엔드 / Sound to Text Model |
+| 홍승현 | 프론트, 백엔드 / Text to LLM Model       |
+| 김경민 | 프론트, 백엔드 / Image to Text Model      |
 
 # NoteFlow
 
