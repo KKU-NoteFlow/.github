@@ -5,6 +5,7 @@
 | 홍승현 | 프론트, 백엔드 / Text to LLM Model       |
 | 김경민 | 프론트, 백엔드 / Image to Text Model      |
 
+
 ## NoteFlow
 
 ### 프로젝트 개요
