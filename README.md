@@ -33,7 +33,7 @@
 
 ---
 
-### 📂 Repository Links
+### Repository Links
 | 구분 | 링크 |
 |------|------|
 | **Frontend Repository** | [ NoteFlow Frontend (GitHub)](https://github.com/KKU-NoteFlow/Frontend) |
